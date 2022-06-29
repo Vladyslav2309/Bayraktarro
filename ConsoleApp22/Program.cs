@@ -15,6 +15,7 @@ namespace Bayraktarro
 
             Console.WriteLine("Все гуд, все працює!) ПРИЙОМ!!!");
             Console.WriteLine("Обнову прийняв. Прийом");
+            Console.WriteLine("19:39");
         }
     }
 }

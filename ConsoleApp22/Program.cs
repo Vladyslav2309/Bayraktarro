@@ -13,6 +13,7 @@ namespace ConsoleApp22
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
 
+            Console.WriteLine("Все гуд, все працює!) ПРИЙОМ!!!");
         }
     }
 }
